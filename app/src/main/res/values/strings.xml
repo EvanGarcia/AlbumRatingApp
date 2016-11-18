@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="reset_clicked">Reset Ratings Clicked</string>
+    <string name="whateverString">Whatever People Say I Am</string>
+    <string name="favouriteString">Favourite Worst Nightmare</string>
+    <string name="humbugString">Humbug</string>
+    <string name="suckString">Suck It and See</string>
+    <string name="amString">A.M.</string>
+    <string name="TSix">2006</string>
+    <string name="TSeven">2007</string>
+    <string name="TNine">2009</string>
+    <string name="TEl">2011</string>
+    <string name="TTH">2013</string>
+    <string name="nextButtonString">Next Album</string>
+    <string name="previousButtonString">Previous Album</string>
+    <string name="NameTextView">NameTextView</string>
+    <string name="AlbumNameDisplay">Album: </string>
+    <string name="AlbumYearDisplay">Release Year: </string>
+    <string name="FontSmallerDispaly">Make Font Smaller</string>
+    <string name="FontLargerDisplay">Make Font Larger</string>
+    <string name="ResetRatingsDisplay">Reset Ratings</string>
+    <string name="TextTooLarge">Text Too Large!</string>
+    <string name="TextTooSmall">Text Too Small!</string>
+    <string name="AccessabilityWhatever">Arctic Monkeys Album Cover for Whatever People Say</string>
+    <string name="AccessabilityFavourite">Arctic Monkeys Album Cover for Favourite Worst Nightmare</string>
+    <string name="AccessabilityHumbug">Arctic Monkeys Album Cover for Humbug</string>
+    <string name="AccessabilitySuck">Arctic Monkeys Album Cover for Suck it and See</string>
+    <string name="AccessabilityAM">Arctic Monkeys Album Cover for A.M.</string>
+
+</resources>
+
+

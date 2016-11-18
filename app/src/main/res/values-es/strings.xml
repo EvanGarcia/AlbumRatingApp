@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="AlbumNameDisplay">Álbum:</string>
+    <string name="AlbumYearDisplay">Año de Lanzamiento:</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="nextButtonString">Próximo Álbum</string>
+    <string name="previousButtonString">Anterior Álbum</string>
+    <string name="reset_clicked">Restablecer Hecho Clic</string>
+    <string name="FontLargerDisplay">Hacer de Fuente Más Grande</string>
+    <string name="FontSmallerDispaly">Hacer que una Fuente Más Pequeña</string>
+    <string name="ResetRatingsDisplay">Restablecer Clasificaciones</string>
+    <string name="TextTooSmall">Texto Demasiado Pequeño!</string>
+    <string name="TextTooLarge">Texto Demasiado Grande!</string>
+    <string name="FontNormalDisplay">Hacer Tamaño Original de la Fuente</string>
+    <string name="AccessabilityWhatever">Arctic Monkeys para la cubierta del álbum Whatever People Say</string>
+    <string name="AccessabilitySuck">Arctic Monkeys para la cubierta del álbum Suck it and See</string>
+    <string name="AccessabilityHumbug">Arctic Monkeys para la cubierta del álbum Humbug</string>
+    <string name="AccessabilityFavourite">Arctic Monkeys para la cubierta del álbum Favourite Worst Nightmare</string>
+    <string name="AccessabilityAM">Arctic Monkeys para la cubierta del álbum A.M.</string>
+</resources>
